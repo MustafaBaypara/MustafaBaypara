@@ -9,8 +9,8 @@ I love open source code at Breakfast.
 
 ## **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg"></code>

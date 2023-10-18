@@ -19,4 +19,4 @@ open source lover for breakfast 🍴
 <code><img height="25" src="https://github.com/MustafaBaypara/MustafaBaypara/blob/main/vtzpl5c9yd181.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg"></code>
-<code><img height="20" src="https://chikitabot.net/data/cikippsmall.png"></code>
+<code><img height="25" src="https://chikitabot.net/data/cikippsmall.png"></code>

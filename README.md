@@ -5,7 +5,7 @@ I also enjoy the opportunity to constantly learn new technologies and languages 
 My interest in frontend and backend development stems from my desire to help websites/applications become more effective and user-friendly.  
 I started game development by designing and developing games in Unity and Unreal Engine game engines by taking part in team projects.  
 I am actively developing [Chikitabot](https://chikitabot.net), a Discord bot. Bots have allowed me to further develop my skills in automation and improving user experience.  
-open source lover for breakfast 🍴
+open source lover for breakfast 🍴  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabaypara&layout=compact)
 ## **languages and tools:**  
 

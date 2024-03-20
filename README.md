@@ -16,6 +16,7 @@ open source lover for breakfast 🍴
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"></code>
 <code><img height="25" src="https://github.com/MustafaBaypara/MustafaBaypara/blob/main/vtzpl5c9yd181.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg"></code>
